@@ -25,7 +25,7 @@ public class secondLargest_Test {
 
     @Test
     public void secondLargestNumber_test05() {
-        assertEquals(65, Challenges.secondLargestNumber(new int[] {63,44,11,22,33,66,65}));
+        assertEquals(65, Challenges.secondLargestNumber(new int[] {198,65}));
     }
 
     @Test
